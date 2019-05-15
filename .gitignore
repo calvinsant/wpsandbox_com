@@ -1,4 +1,5 @@
 *.log
+resources/*
 trunk/wp-config.php
 trunk/wp-content/advanced-cache.php
 trunk/wp-content/backup-db/
