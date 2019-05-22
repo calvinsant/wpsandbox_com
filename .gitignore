@@ -1,4 +1,5 @@
 *.log
+trunk/wp-content/themes/gulp-dev/*
 resources/*
 trunk/wp-config.php
 trunk/wp-content/advanced-cache.php
